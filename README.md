@@ -2,7 +2,7 @@
 **Siwarai/Siwarai**# 👋 Merhaba, ben Alişan Yatmaz  
 
 🎓 **Fırat Üniversitesi Yazılım Mühendisliği** öğrencisiyim.  
-💻 **Siber Güvenlik**, **Yapay Zeka** ve **Makine Öğrenmesi** alanlarına ilgi duyuyor ve bu konularda kendimi geliştiriyorum.  
+💻 **Yazılım Mühendisliği** ve **Yazılım Dünyasına ** bağlı alanlara ilgi duyuyor ve bu konularda kendimi geliştiriyorum.  
 🧠 Aktif olarak **Python** ve **Java** dillerinde projeler geliştiriyorum.  
 
 ---
