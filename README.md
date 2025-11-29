@@ -3,7 +3,7 @@
 
 🎓 **Fırat Üniversitesi Yazılım Mühendisliği** öğrencisiyim.  
 💻 **Yazılım Mühendisliği** ve **Yazılım Dünyasına ** bağlı alanlara ilgi duyuyor ve bu konularda kendimi geliştiriyorum.  
-🧠 Aktif olarak **Python** ve **Java** dillerinde projeler geliştiriyorum.  
+🧠 Aktif olarak **Python** ve **Java** dillerinde kendimi geliştiriyorum.  
 
 ---
 
