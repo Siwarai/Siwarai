@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 **Siwarai/Siwarai**# 👋 Merhaba, ben Alişan Yatmaz  
 
 🎓 **Fırat Üniversitesi Yazılım Mühendisliği** öğrencisiyim.  
